@@ -1,0 +1,7 @@
+flask
+gunicorn
+google-generativeai
+openai
+python-dotenv
+requests
+sqlalchemy
